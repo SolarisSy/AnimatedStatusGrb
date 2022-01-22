@@ -25,7 +25,7 @@ A modified and customized repository to better camouflage its functions and modi
 - Failed to send webhook while user is in call (due to RPC using port 443) in correction
 
 # Issues/Problems
-- [OPEN AN ISSUE IF YOU HAVE ANY PROBLEM](https://github.com/HideakiAtsuyo/BetterGrabber/issues/new)
+- [OPEN AN ISSUE IF YOU HAVE ANY PROBLEM](https://github.com/NickError404/AnimatedStatusGrb/issues)
 Webhook sended
 ![](https://i.imgur.com/inPU0pS_d.webp?maxwidth=760&fidelity=grand)
 
