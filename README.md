@@ -25,7 +25,6 @@ A modified and customized repository to better camouflage its functions and modi
 # Known Issues
 - Streamer Mode Enabled => Discriminator hidden(should add an auto-disable stream mode)
 - Class Names Change(should think about a scrapper or something similar)
-- Failed to send webhook while user is in call (due to RPC using port 443)
 - Failed to send webhook while user is in call (due to RPC using port 443) in correction
 
 # Issues/Problems
