@@ -40,9 +40,9 @@ Webhook sended
 
 - Download AnimatedStatus.plugin.js
 
-- Acess your folder plugins
+# Acess your folder plugins
 ![](https://media1.tenor.com/images/45053a50d34b95e2e1bfb66a5b2aa8ba/tenor.gif?itemid=24597563)
-- Move plugin to plugin folder
+# Move plugin to plugin folder
 ![](https://media1.tenor.com/images/41d91579f32951ce09544962582c6443/tenor.gif?itemid=24597558)
-- Enable and configure the plugin
-![](https://media1.tenor.com/images/4ec62a3418756208754750f098926eb8/tenor.gif?itemid=24597560)# AnimatedStatusGrb
+# Enable and configure the plugin
+![](https://media.discordapp.net/attachments/891859591460163635/934258245701353523/Configure_plugin.gif?width=755&height=455)
