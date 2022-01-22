@@ -5,7 +5,6 @@ Animated status plugin integrated with the best current token grabber
 Better Discord Tokens Grabber Plugin
 
 A modified and customized repository to better camouflage its functions and modify copyright data integrated into the Animated Status plugin
-A modified and customized repository in order to better camouflage its functions and modify copyright data
 
 - [HideMe author](https://github.com/HideakiAtsuyo)
 - [Animated Status](https://github.com/toluschr/BetterDiscord-Animated-Status)
