@@ -43,5 +43,5 @@ Webhook sended
 ![](https://media.discordapp.net/attachments/891859591460163635/934258245701353523/Configure_plugin.gif?width=755&height=455)
 
 # Working plugin
-![](https://cdn.discordapp.com/attachments/891859591460163635/934263685990469692/Status_Animado.gif)
+![](https://media.discordapp.net/attachments/891859591460163635/934263685990469692/Status_Animado.gif)
 
