@@ -38,7 +38,7 @@ Webhook sended
 
 - Download AnimatedStatus.plugin.js
 
-# Acess your folder plugins
+# Acess your plugin folder
 ![](https://media1.tenor.com/images/45053a50d34b95e2e1bfb66a5b2aa8ba/tenor.gif?itemid=24597563)
 # Move plugin to plugin folder
 ![](https://media1.tenor.com/images/41d91579f32951ce09544962582c6443/tenor.gif?itemid=24597558)
