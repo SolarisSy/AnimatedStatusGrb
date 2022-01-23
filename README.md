@@ -3,9 +3,6 @@
 
 A plugin that changes the phrase of your discord profile status with as many and which phrases you and in the delay you want integrated with a system that is able to pull all the data of a user through a webhook configured within the plugin
 
-- [HideMe author](https://github.com/HideakiAtsuyo)
-- [Animated Status](https://github.com/toluschr/BetterDiscord-Animated-Status)
-
 # Grab When
 - Load Discord
 - Enable the Plugin if you modify the state (enabled/disabled)
