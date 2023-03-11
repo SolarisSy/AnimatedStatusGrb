@@ -37,4 +37,4 @@ Webhook sended
 # Move plugin to plugin folder
 ![](https://media1.tenor.com/images/41d91579f32951ce09544962582c6443/tenor.gif?itemid=24597558)
 # Enable and configure the plugin
-![](https://media.discordapp.net/attachments/891859591460163635/934258245701353523/Configure_plugin.gif?width=755&height=455)
+
